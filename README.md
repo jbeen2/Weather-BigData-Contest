@@ -9,3 +9,4 @@
 6. Sampling: 일주일마다 랜덤한 요일 뽑아 train, test split하는 함수
 7. Online-with-Weather: 주어진 데이터에 날씨 지수 데이터 추가
 8. Appliance-Correlation: 대분류 냉난방가전과 상관관계가 높은 지역 선택
+9. Modeling-Baseline: Machine Learning Baseline
