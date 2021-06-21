@@ -11,3 +11,4 @@
 8. Appliance-Correlation: 대분류 냉난방가전과 상관관계가 높은 지역 선택
 9. Modeling-Baseline: Machine Learning Baseline
 10. Time-Series-Clustering-Scaling: 스케일링
+17. LSTM-Causality: Causality 있는 날씨변수만 사용
