@@ -11,4 +11,7 @@
 8. Appliance-Correlation: 대분류 냉난방가전과 상관관계가 높은 지역 선택
 9. Modeling-Baseline: Machine Learning Baseline
 10. Time-Series-Clustering-Scaling: 스케일링
+11. Modeling-Scaling: Scaling 후 Machine Learning
+12. Population-Weight: 시도별 인구수를 기반으로 한 가중치
+14. Final-EDA: 논리적 흐름을 위한 EDA 
 17. LSTM-Causality: Causality 있는 날씨변수만 사용
