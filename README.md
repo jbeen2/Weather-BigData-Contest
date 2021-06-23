@@ -9,10 +9,10 @@
 ### Baseline Code 🐷
 
 * [0613_Data.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/0613_Data.ipynb) : 최종 DataFrame 생성 코드
-* [0620_Modeling.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/0613_Modeling.ipynb) : TimeSeries Clustering + ML modeling 
+* [0620_Modeling.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/0613_Modeling.ipynb) : TimeSeries Clustering + ML modeling + TreeSHAP 
 
 --- 
-* [17_LSTM_Causality.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/17_LSTM_Causality.ipynb) : SHAP 
+* [17_LSTM_Causality.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/17_LSTM_Causality.ipynb) : DeepSHAP 
 ```python
 @tensorflow version : 2.0.0 
 @shap version : 0.38.2
