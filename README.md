@@ -13,3 +13,6 @@ tf.compat.v1.disable_v2_behavior()
 
 !pip install git+https://github.com/janesser/shap.git@bugfix/1694
 ```
+
+---
+* ✨ **for 뽀민** ✨ : [20_LSTM_Sex_Region.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/20_LSTM_Sex_Region.ipynb)
