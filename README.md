@@ -13,5 +13,6 @@
 10. Time-Series-Clustering-Scaling: 스케일링
 11. Modeling-Scaling: Scaling 후 Machine Learning
 12. Population-Weight: 시도별 인구수를 기반으로 한 가중치
+13. Modeling-Filtering: Machine Learning 해당 소품목만
 14. Final-EDA: 논리적 흐름을 위한 EDA 
 17. LSTM-Causality: Causality 있는 날씨변수만 사용
