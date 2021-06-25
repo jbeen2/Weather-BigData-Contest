@@ -15,4 +15,5 @@
 12. Population-Weight: 시도별 인구수를 기반으로 한 가중치
 13. Modeling-Filtering: Machine Learning 해당 소품목만
 14. Final-EDA: 논리적 흐름을 위한 EDA 
+15. LSTM-Baseline: LSTM Baseline
 17. LSTM-Causality: Causality 있는 날씨변수만 사용
