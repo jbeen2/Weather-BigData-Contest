@@ -1,29 +1,3 @@
-# Weather-BigData-Contest
-
-### ✨ **for 뽀민** ✨ 
-* [20_LSTM_Sex_Region_hr.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/20_LSTM_Sex_Region_hr.ipynb) : ~29 (혜린)
-* [20_LSTM_Sex_Region.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/20_LSTM_Sex_Region.ipynb) : 29~58 (재빈)
-
-<br> 
-
-### Baseline Code 🐷
-
-* [0613_Data.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/0613_Data.ipynb) : 최종 DataFrame 생성 코드
-* [0620_Modeling.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/0613_Modeling.ipynb) : TimeSeries Clustering + ML modeling + TreeSHAP 
-
---- 
-* [17_LSTM_Causality.ipynb](https://github.com/jbeen2/Weather-BigData-Contest/blob/jbeen2/17_LSTM_Causality.ipynb) : DeepSHAP 
-```python
-@tensorflow version : 2.0.0 
-@shap version : 0.38.2
-
-from tensorflow.compat.v1.keras.backend import get_session
-tf.compat.v1.disable_v2_behavior()
-
-!pip install git+https://github.com/janesser/shap.git@bugfix/1694
-```
-
----
 # 기상청 날씨 빅데이터 콘테스트 
 ## [민간협력형] 날씨에 따른 소비패턴 분석 
 
@@ -89,6 +63,7 @@ tf.compat.v1.disable_v2_behavior()
 5. TSClustering & ML : 시계열 클러스터링을 진행하고, Machine Learning 모델을 통해 비정상시계열 상품군의 추세를 예측합니다. 
 6. Recommender System : 상품의 특성을 반영하여 유사한 상품을 추천합니다. 
 
+
 <br>
 
 
@@ -96,7 +71,4 @@ tf.compat.v1.disable_v2_behavior()
 https://public.tableau.com/app/profile/bomin5781/viz/FinalDashboard_16246720253230/sheet13  <br>
 해당 링크에서, AI 기반 온라인 소비패턴 분석 서비스를 경험하실 수 있습니다.  <br>
 (링크가 있는 사용자만 접근 가능하며, 사용자가 데이터를 다운로드 할 수 없습니다.) 
-
-
-<br> 
 
