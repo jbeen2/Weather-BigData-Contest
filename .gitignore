@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> jbeen2
 .DS_Store
 .DS_Store?
 
@@ -12,7 +15,10 @@ chromedriver
 catboost_info/
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> jbeen2
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
