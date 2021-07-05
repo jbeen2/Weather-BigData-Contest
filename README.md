@@ -18,3 +18,4 @@
 15. LSTM-Baseline: LSTM Baseline
 17. LSTM-Causality: Causality 있는 날씨변수만 사용
 18. Dashboard: Dashboard를 위한 데이터 전처리
+19. LSTM-Sex-Region: 성별, 지역별 LSTM
