@@ -16,5 +16,8 @@
 13. Modeling-Filtering: Machine Learning 해당 소품목만
 14. Final-EDA: 논리적 흐름을 위한 EDA 
 15. LSTM-Baseline: LSTM Baseline
+16. LSTM-New: LSTM with New Data
 17. LSTM-Causality: Causality 있는 날씨변수만 사용
 18. Dashboard: Dashboard를 위한 데이터 전처리
+19. LSTM-Sex-Region: 성별, 지역별 LSTM
+20. LSTM-Result: LSTM 결과 해석
