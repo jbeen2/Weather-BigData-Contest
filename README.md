@@ -1,11 +1,11 @@
-# 2021 기상청 날씨 빅데이터 콘테스트 (수정 중 ~) 
+# 2021 기상청 날씨 빅데이터 콘테스트 
 ### 민간협력형 : [날씨에 따른 소비패턴 분석](https://user-images.githubusercontent.com/43749571/125427337-41b203f1-078e-4354-a3d6-d78688f9bdaa.png) ⛅️  
 
 <p align="center"><img src="https://user-images.githubusercontent.com/43749571/124492604-a760e700-ddef-11eb-9896-c4e869d4c392.jpg"></p>
 
 * **온라인 판매 데이터**로 날씨에 따른 소비패턴을 **분석**하고 **예측**하여, 날씨와 아이템 특성을 반영한 상품을 **추천**합니다. 
 * **[보고서](https://drive.google.com/file/d/1HJW8l0JAg-QLCYRdD1vkn7D49VwGW0s4/view)** 를 통해 **분석 과정**에 대해 확인하실 수 있으며, 
-  **[Dashboard](https://public.tableau.com/app/profile/bomin5781/viz/AIDashboard_16273900515240/sheet13)** 를 통해 **날씨 빅데이터 마케팅 플랫폼**을 경험하실 수 있습니다.
+  **Dashboard** 를 통해 **날씨 빅데이터 마케팅 플랫폼**을 경험하실 수 있습니다.
 
 
 <br> 
@@ -75,19 +75,20 @@
 </details> 
  
 <details> 
- <summary> 5. <b> <code>Dashboard</code> </b>  : <a href="https://public.tableau.com/app/profile/bomin5781/viz/AIDashboard_16273900515240/sheet13">온라인 소비패턴 분석 서비스</a></summary> 
+ <summary> 5. <b> <code>Dashboard</code> </b>  : 온라인 소비패턴 분석 서비스 </summary> 
    <br>
    <img src="https://user-images.githubusercontent.com/43749571/128128764-12bef478-5158-4c34-bd5d-795977c7db67.png"></p>
    <ul> 
     <li> 고객 맞춤형 전략을 위한 <b>날씨 빅데이터 마켓팅 플랫폼</b> Dashboard 입니다. </li>  
     <li> <b>1</b> 상품의 특성 (날씨와의 인과관계 여부), <b>2</b> 날씨와의 관계, <b>3</b> 상품 분석 (성・연령별 구매건수 추이), <br>     
-      <b>4</b> SNS 언급량 (상품 판매량에 유의한 lag + 언급량 추세),  <b>5</b> 추천시스템  으로 구성되어 있습니다. </li>  <br>
+      <b>4</b> SNS 언급량 (상품 판매량에 유의한 lag + 언급량 추세),  <b>5</b> 추천시스템  으로 구성되어 있습니다. </li>  
+    <li> 서약 내용에 따라 Dashboard 링크는 제공하지 않습니다. </li>  <br> 
   </ul> 
 </details> 
 
 <br> 
 
-## 4. Members : Team 빠른이들 (일단 분신술 .. 감생감사재빈 * 3) 
+## 4. Members : Team 빠른이들 
 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -96,9 +97,9 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/bominkm"><img src="https://user-images.githubusercontent.com/43749571/125430192-d8a34ef9-e179-49b0-ac67-a6fa65d3b0c7.jpeg" width="150" height="150"><br /><sub><b>Bomin Kim</b></sub></td>
-    <td align="center"><a href="https://github.com/yoonjong12"><img src="https://user-images.githubusercontent.com/43749571/125430192-d8a34ef9-e179-49b0-ac67-a6fa65d3b0c7.jpeg" width="150" height="150"><br /><sub><b>Jaebeen Lee</b></sub></td>
-    <td align="center"><a href="https://github.com/jbeen2"><img src="https://user-images.githubusercontent.com/43749571/125430192-d8a34ef9-e179-49b0-ac67-a6fa65d3b0c7.jpeg" width="150" height="150"><br /><sub><b>Hyerin Lee</b></sub></td>
+    <td align="center"><a href="https://github.com/bominkm"><img src="https://user-images.githubusercontent.com/43749571/130727497-aa668081-4225-4852-af95-6bb3e18aec4d.JPG" width="150" height="150"><br /><sub><b>Bomin Kim</b></sub></td>
+    <td align="center"><a href="https://github.com/jbeen2"><img src="https://user-images.githubusercontent.com/43749571/130727477-635610c5-09fb-4091-b930-8008fe97134e.jpg" width="150" height="150"><br /><sub><b>Jaebeen Lee</b></sub></td>
+    <td align="center"><a href="https://github.com/hrlee113"><img src="https://user-images.githubusercontent.com/43749571/130727490-606f2a83-88f9-4a8a-8a7a-04148190f19c.JPG" width="150" height="150"><br /><sub><b>Hyerin Lee</b></sub></td>
   </tr>
 </table>
 
